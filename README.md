@@ -1,2 +1,2 @@
 # Breast-Cancer-Detection-App
- Machine Learning Project
+ Breast Cancer Detection App Using Machine Learning XGBoost Classifier
